@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themanitou
 - 👀 I’m interested in writing code for encryption-related stuffs.
-- 🌱 I’m currently learning code exploitation from Jon Erickson's book, might challenge myself with pentesting after that.
+- 🌱 I’m currently learning code exploitation from Jon Erickson's book, might challenge myself with penetration testing after that.
 - 💞️ I’m looking to collaborate on any fun topics about code & comm security.
 - 📫 Reach me at this GPG fingerprint: 7EB4 DDFB 64EF 33FF 0618  68CF F327 7E04 1E58 4749
 
